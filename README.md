@@ -1,5 +1,5 @@
 ## Hi Welcome, I'm Jang SeokWon 👋
-### Front-end Developer
+### 😎Front-end Developer
 
 ### **🛠️ Stacks**
 <div>
@@ -23,10 +23,7 @@
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">
   </div>
   <br>
+  
+  
 ---
-
-
-  
-  
-
 #![seokuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokuuu&show_icons=true&theme=radical)
