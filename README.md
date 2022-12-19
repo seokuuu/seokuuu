@@ -1,6 +1,5 @@
-# Hi Welcome, i'm Jang SeokWon 👋
-## Front-end Developer
----
+## Hi Welcome, I'm Jang SeokWon 👋
+### Front-end Developer
 
 ### **🛠️ Stacks**
 <div>
