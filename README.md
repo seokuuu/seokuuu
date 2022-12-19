@@ -12,9 +12,6 @@
 <img src="https://img.shields.io/badge/redux―toolkit-4D148C?style=for-the-badge&logo=redux&logoColor=white">
  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
  </div>
-
-  
-  
 ### **💪🏼 Tools & Version Control **
   <div>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
@@ -23,7 +20,5 @@
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">
   </div>
   <br>
-  
-  
 ---
 #![seokuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokuuu&show_icons=true&theme=radical)
