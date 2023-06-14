@@ -27,4 +27,4 @@
   
   
 ---
-#![seokuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokuuu&show_icons=true&theme=radical)
+![seokuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokuuu&show_icons=true&theme=radical)
