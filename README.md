@@ -1,4 +1,4 @@
-## Hi Welcome, I'm Jang SeokWon 👋
+## Hi Welcome, I'm Jang Seokwon 👋
 ### 😎Front-end Developer
 ### **🛠️ Stacks**
 <div>
@@ -19,6 +19,7 @@
 <br>
 <img src="https://img.shields.io/badge/react query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+ <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
  </div>
  
  
