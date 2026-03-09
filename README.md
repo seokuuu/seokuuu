@@ -71,21 +71,9 @@ const Seokwon = {
 
 ---
 
-## `stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seokuuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
-
-</div>
-
----
-
 ## `contact`
 
 <div align="center">
-
-**열려 있습니다, 언제든 연락주세요.**
 
 [![Email](https://img.shields.io/badge/solskjaer73@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:solskjaer73@naver.com)
 
