@@ -4,6 +4,8 @@
 
 </div>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Jang%20Seokwon&fontSize=40)
+
 <div align="center">
 
 # Jang Seokwon
@@ -31,8 +33,9 @@ const Seokwon = {
 
 ## `experience`
 
+| Company | Role | Period |
 |---|---|---|
-| **Platfos** | Frontend Developer | 2024.11 — present |
+| **Platforce** | Frontend Developer | 2024.11 — present |
 | **IDEN-IT** | Frontend Developer | 2023.03 — 2024.09 |
 
 ---
