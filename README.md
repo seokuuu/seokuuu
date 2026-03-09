@@ -32,7 +32,7 @@
 ```typescript
 const Seokwon = {
   role    : "Frontend Developer",
-  focus   : ["UX-driven UI", "Scalable Architecture", "Performance"],
+  focus   : ["사용자 중심 UI", "확장 가능한 아키텍처", "성능 최적화"],
   contact : "solskjaer73@naver.com",
 } as const;
 ```
@@ -43,7 +43,7 @@ const Seokwon = {
 
 | Company | Role | Period |
 |---|---|---|
-| **Platforce** | Frontend Developer | 2024.11 — present |
+| **Platfos** | Frontend Developer | 2024.11 — present |
 | **IDEN-IT** | Frontend Developer | 2023.03 — 2024.09 |
 
 ---
