@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
 
 ```
@@ -20,7 +17,7 @@
 
 **Frontend Developer** &nbsp;·&nbsp; Building interfaces that feel inevitable
 
-[![Gmail](https://img.shields.io/badge/solskjaer73%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:solskjaer73@naver.com)
+[![Gmail](https://img.shields.io/badge/jangseokwon.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jangseokwon.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/seokuuu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seokuuu)
 
 </div>
@@ -33,7 +30,7 @@
 const Seokwon = {
   role    : "Frontend Developer",
   focus   : ["사용자 중심 UI", "확장 가능한 아키텍처", "성능 최적화"],
-  contact : "solskjaer73@naver.com",
+  contact : "jangseokwon.dev@gmail.com",
 } as const;
 ```
 
@@ -94,6 +91,6 @@ const Seokwon = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/solskjaer73@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:solskjaer73@naver.com)
+[![Email](https://img.shields.io/badge/jangseokwon.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jangseokwon.dev@gmail.com)
 
 </div>
