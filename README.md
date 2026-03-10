@@ -19,7 +19,7 @@
 
 [![Gmail](https://img.shields.io/badge/jangseokwon.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jangseokwon.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/seokuuu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seokuuu)
-[![Website](https://img.shields.io/badge/testimg.art-000000?style=flat-square&logo=vercel&logoColor=white)](https://testimg.art)
+[![Website](https://img.shields.io/badge/testimg.art-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://testimg.art)
 
 </div>
 
