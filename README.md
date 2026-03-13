@@ -37,10 +37,8 @@ const Seokwon = {
 
 ## `experience`
 
-| Company | Role | Period |
-|---|---|---|
-| **Platfos** | Frontend Developer | 2024.11 — present |
-| **IDEN-IT** | Frontend Developer | 2023.03 — 2024.09 |
+
+|Frontend Developer | 2023.03 — present |
 
 ---
 
