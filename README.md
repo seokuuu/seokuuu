@@ -18,7 +18,6 @@
 **Frontend Developer** &nbsp;·&nbsp; Building interfaces that feel inevitable
 
 [![Website](https://img.shields.io/badge/testimg.art-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://testimg.art)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://marsh-quill-ae9.notion.site/14ce7cbbb7fe804ebd0ee768c455d785?v=14ce7cbbb7fe81678287000cd16c3a1e)
 
 </div>
 
