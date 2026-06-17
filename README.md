@@ -11,11 +11,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Jang+Seokwon;Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Jang+Seokwon;Web+Developer)](https://git.io/typing-svg)
 
 </div>
 
-**Frontend Developer** &nbsp;·&nbsp; Building interfaces that feel inevitable
+**Web Developer** &nbsp;·&nbsp; Building interfaces that feel inevitable
 
 [![Website](https://img.shields.io/badge/testimg.art-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://testimg.art)
 
@@ -27,7 +27,7 @@
 
 ```typescript
 const Seokwon = {
-  role    : "Frontend Developer",
+  role    : "Web Developer",
   focus   : ["사용자 중심 UI", "확장 가능한 아키텍처", "성능 최적화"],
   contact : "jangseokwon.dev@gmail.com",
 } as const;
@@ -56,6 +56,7 @@ Frontend Developer 👉 2023.03 — present
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 **State**
 
@@ -71,12 +72,20 @@ Frontend Developer 👉 2023.03 — present
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 
+**Database & ORM**
 
-**Build**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
+
+**Build & Infra**
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
+![AWS ECR](https://img.shields.io/badge/AWS_ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS ALB](https://img.shields.io/badge/AWS_ALB-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
