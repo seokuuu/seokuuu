@@ -35,12 +35,6 @@ const Seokwon = {
 
 ---
 
-## `experience`
-
-
-Frontend Developer 👉 2023.03 — present 
-
----
 
 ## `stack`
 
